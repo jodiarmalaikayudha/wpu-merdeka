@@ -3,4 +3,4 @@ jodi tes aja
 -biar pintar aja ini
 -pengan belajr git
 -nambahin ceritanya 
--biar ngerti
+-hapus aja 
